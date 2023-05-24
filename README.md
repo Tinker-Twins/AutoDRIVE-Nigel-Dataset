@@ -4,7 +4,7 @@
 
 ### Dynamics and Perception Dataset of AutoDRIVE Ecosystem's Nigel Vehicle
 
-:warning: ***Repository Size:** This repository is about 66 GB in size. This repository uses [Git LFS](https://git-lfs.com/). Please check your internet data plan and local disk space before cloning this repository.*
+:warning: ***Dataset Size:** This repository hosts the `lite` version of dataset (i.e. without camera frames), which is about 1.50 GB in size. The complete dataset is about 66 GB in size and is hosted seperately on [Zenodo](https://zenodo.org/record/7964080). Please check your internet data plan and local disk space before downloading the dataset.*
 
 <table>
 <thead>
