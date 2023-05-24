@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7964080.svg)](https://doi.org/10.5281/zenodo.7964080)
 
-### Dynamics and Perception Dataset of AutoDRIVE Ecosystem's Nigel Vehicle
+### Dynamics and Perception Dataset of AutoDRIVE Ecosystem's 1:14 Scale "Nigel" Vehicle
 
 :warning: ***Dataset Size:** This repository hosts the `lite` version of dataset (i.e. without camera frames), which is about 1.50 GB in size. The complete dataset is about 66 GB in size and is hosted seperately on [Zenodo](https://zenodo.org/record/7964080). Please check your internet data plan and local disk space before downloading the dataset.*
 
