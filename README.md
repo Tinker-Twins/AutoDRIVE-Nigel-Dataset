@@ -101,10 +101,12 @@ python3 open_loop_control.py --maneuver={straight, skidpad, fishhook, slalom} --
     <td align="center">Slalom Maneuver</td>
   </tr>
   <tr>
-    <td  align="center" colspan="2"><img src="data_visualization/eight_maneuver_single.png"></td>
+    <td align="center"><img src="data_visualization/eight_maneuver_single.png"></td>
+    <td align="center"><img src="data_visualization/parking_maneuver_single.png"></td>
   </tr>
   <tr>
-    <td  align="center" colspan="2">Eight Maneuver</td>
+    <td align="center">Eight Maneuver</td>
+    <td align="center">Parking Maneuver</td>
   </tr>
 </tbody>
 </table>
