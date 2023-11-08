@@ -27,10 +27,12 @@
     <td align="center">Slalom Track</td>
   </tr>
   <tr>
-    <td  align="center" colspan="2"><img src="eight_30_hz/eight.png"></td>
+    <td align="center"><img src="eight_30_hz/eight.png"></td>
+    <td align="center"><img src="parking_30_hz/parking.png"></td>
   </tr>
   <tr>
-    <td  align="center" colspan="2">Eight Track</td>
+    <td align="center">Eight Track</td>
+    <td align="center">Tiny Town Track</td>
   </tr>
 </tbody>
 </table>
